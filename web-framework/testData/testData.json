@@ -1,0 +1,13 @@
+{
+  "url": "https://www.knowledgeware.in/final.html",
+  "validUser": {
+    "username": "Sayali",
+    "password": "Prathmesh@123",
+    "confirmPassword": "aniket@123"
+  },
+  "invalidUser": {
+    "username": "invalidUser",
+    "password": "invalidpass",
+    "confirmPassword": "invalidpassconfirm"
+  }
+}
