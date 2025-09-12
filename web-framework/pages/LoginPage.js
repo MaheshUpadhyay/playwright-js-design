@@ -35,7 +35,9 @@ class LoginPage extends CommonFunctions {
   async clickLogin() {
     await this.clickElement(this.loginButton);
   }
-
+  //I am trying to add conflict
+  //Pratik says don't add
+  //Sandip said lets add
   // 🔹 Click login button
   async verifyPage2Title(expectedTitle) {
     await this.verifyTitle(expectedTitle);
